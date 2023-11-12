@@ -1,0 +1,15 @@
+C:\universidadEvaluacion\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\universidadEvaluacion\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\universidadEvaluacion\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\universidadEvaluacion\Persistence\bin\Debug\net7.0\Domain.dll
+C:\universidadEvaluacion\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\universidadEvaluacion\Persistence\obj\Debug\net7.0\ref\Persistence.dll

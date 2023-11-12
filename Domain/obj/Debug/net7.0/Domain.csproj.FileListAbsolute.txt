@@ -1,0 +1,12 @@
+C:\universidadEvaluacion\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\universidadEvaluacion\Domain\bin\Debug\net7.0\Domain.dll
+C:\universidadEvaluacion\Domain\bin\Debug\net7.0\Domain.pdb
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\Domain.dll
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\Domain.pdb
+C:\universidadEvaluacion\Domain\obj\Debug\net7.0\ref\Domain.dll

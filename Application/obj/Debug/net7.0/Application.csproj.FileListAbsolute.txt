@@ -1,0 +1,17 @@
+C:\universidadEvaluacion\Application\bin\Debug\net7.0\Application.deps.json
+C:\universidadEvaluacion\Application\bin\Debug\net7.0\Application.dll
+C:\universidadEvaluacion\Application\bin\Debug\net7.0\Application.pdb
+C:\universidadEvaluacion\Application\bin\Debug\net7.0\Domain.dll
+C:\universidadEvaluacion\Application\bin\Debug\net7.0\Persistence.dll
+C:\universidadEvaluacion\Application\bin\Debug\net7.0\Domain.pdb
+C:\universidadEvaluacion\Application\bin\Debug\net7.0\Persistence.pdb
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\Application.dll
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\refint\Application.dll
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\Application.pdb
+C:\universidadEvaluacion\Application\obj\Debug\net7.0\ref\Application.dll
